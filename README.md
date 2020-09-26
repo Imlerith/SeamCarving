@@ -5,36 +5,18 @@ The search of the seams with the smallest energy is then done via shortest-path 
 
 Below two pictures, before and after resizing, are displayed:
 
-<figure>
-    <figcaption>Before resizing:</figcaption>
-    <img src='https://github.com/Imlerith/SeamCarving/blob/master/images/pic.jpg' alt='missing' />
-</figure>
-
-<figure>
-    <figcaption>After resizing:</figcaption>
-    <img src='https://github.com/Imlerith/SeamCarving/blob/master/images/pic_resized.jpg' alt='missing' />
-</figure>
-
-
 <table width="500" border="1" cellpadding="5">
-
-<tr>
-
-<td align="center" valign="center">
-<img src="https://github.com/Imlerith/SeamCarving/blob/master/images/pic.jpg" alt="description here" />
-<br />
-Caption text centered under the image.
-</td>
-
-<td align="center" valign="center">
-After resizing:
-    <br />
-<img src="https://github.com/Imlerith/SeamCarving/blob/master/images/pic_resized.jpg" alt="description here" />
-
-
-</td>
-
-</tr>
-
+    <tr>
+        <td align="center" valign="center">
+            Before resizing:
+            <br />
+            <img src="https://github.com/Imlerith/SeamCarving/blob/master/images/pic.jpg" alt="before resizing" />
+        </td>
+        <td align="center" valign="center">
+            After resizing:
+            <br />
+            <img src="https://github.com/Imlerith/SeamCarving/blob/master/images/pic_resized.jpg" alt="after resizing" />
+        </td>
+    </tr>
 </table>
 
