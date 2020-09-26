@@ -7,3 +7,6 @@ Below two pictures, before and after resizing, are displayed:
 
 <img align="left" src="https://github.com/Imlerith/SeamCarving/blob/master/images/pic.jpg">
 
+<p align="center">
+  <img src="https://github.com/Imlerith/SeamCarving/blob/master/images/pic_resized.jpg">
+</p>
