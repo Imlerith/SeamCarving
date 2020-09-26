@@ -15,3 +15,24 @@ Below two pictures, before and after resizing, are displayed:
     <img src='https://github.com/Imlerith/SeamCarving/blob/master/images/pic_resized.jpg' alt='missing' />
 </figure>
 
+
+<table width="500" border="1" cellpadding="5">
+
+<tr>
+
+<td align="center" valign="center">
+<img src="https://github.com/Imlerith/SeamCarving/blob/master/images/pic.jpg" alt="description here" />
+<br />
+Caption text centered under the image.
+</td>
+
+<td align="center" valign="center">
+<img src="https://github.com/Imlerith/SeamCarving/blob/master/images/pic_resized.jpg" alt="description here" />
+<br />
+Caption text centered under the image.
+</td>
+
+</tr>
+
+</table>
+
