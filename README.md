@@ -5,4 +5,19 @@ The search of the seams with the smallest energy is then done via shortest-path 
 
 Below two pictures, before and after resizing, are displayed:
 
-![GitHub Logo](https://github.com/Imlerith/SeamCarving/blob/master/tower.jpg?raw=true)
+<table width="500" border="1" cellpadding="5">
+    <tr>
+        <td align="center" valign="center">
+            Before resizing:
+            <br />
+            <img src="https://github.com/Imlerith/SeamCarving/blob/master/images/pic.jpg" alt="before resizing" />
+        </td>
+        <td align="center" valign="center">
+            After resizing:
+            <br />
+            <img src="https://github.com/Imlerith/SeamCarving/blob/master/images/pic_resized.jpg" alt="after resizing" />
+        </td>
+    </tr>
+</table>
+
+Before resizing, the size of the picture is 320x217 pixels, after resizing 220x217 pixels. As can be seen, seam carving preserves the most interesting features (aspect ratio, set of objects present, etc.) of the image.
