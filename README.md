@@ -5,7 +5,7 @@ The search of the seams with the smallest energy is then done via shortest-path 
 
 Below two pictures, before and after resizing, are displayed:
 
-<table width="800" border="1" cellpadding="5">
+<table width="500" border="1" cellpadding="5">
     <tr>
         <td align="center" valign="center">
             Before resizing:
