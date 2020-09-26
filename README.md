@@ -20,4 +20,4 @@ Below two pictures, before and after resizing, are displayed:
     </tr>
 </table>
 
-Before resizing, the size of the picture is 320x217 pixels, after resizing 220x217 pixels. As can be seen, seam carving preserves the most interest features (aspect ratio, set of objects present, etc.) of the image.
+Before resizing, the size of the picture is 320x217 pixels, after resizing 220x217 pixels. As can be seen, seam carving preserves the most interesting features (aspect ratio, set of objects present, etc.) of the image.
