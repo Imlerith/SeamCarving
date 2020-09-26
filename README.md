@@ -5,4 +5,4 @@ The search of the seams with the smallest energy is then done via shortest-path 
 
 Below two pictures, before and after resizing, are displayed:
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://github.com/Imlerith/SeamCarving/blob/master/tower.jpg?raw=true)
