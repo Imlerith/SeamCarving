@@ -27,9 +27,11 @@ Caption text centered under the image.
 </td>
 
 <td align="center" valign="center">
+After resizing:
+    <br />
 <img src="https://github.com/Imlerith/SeamCarving/blob/master/images/pic_resized.jpg" alt="description here" />
-<br />
-Caption text centered under the image.
+
+
 </td>
 
 </tr>
