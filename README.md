@@ -10,6 +10,11 @@ Below two pictures, before and after resizing, are displayed:
     <img src="https://github.com/Imlerith/SeamCarving/blob/master/images/pic.jpg" alt="sometext" />
 </div>
 
+<div class="center">
+     <p>After resizing:</p>
+    <img src="https://github.com/Imlerith/SeamCarving/blob/master/images/pic_resized.jpg" alt="sometext" />
+</div>
+
 <p align="left">
   Before resizing:
   <img src="https://github.com/Imlerith/SeamCarving/blob/master/images/pic.jpg">
